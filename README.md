@@ -19,4 +19,4 @@ I'm a Software Developer with 2+ years of Support Engineering experience and a p
 - Work in a Scrum/Agile type environment and manage software development projects by setting requirements, goals, and timelines.
 - Design strategies for future development projects based on the company’s overall objectives and resources.
 
-Learn more about who I am: https://jxsoren.com/
+Check out my portfolio: https://jxsoren.com/
