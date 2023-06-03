@@ -7,7 +7,7 @@ I'm a Software Developer with 2+ years of Support Engineering experience and a p
 - Languages: HTML, CSS, JavaScript, TypeScript
 - Frameworks: Node, Express, NextJS
 - Libraries: React (React Hooks), Mongoose
-- Databases: MongoDB
+- Databases: MongoDB, SQL
 - Interface Design/Development: APIs (HTTP & REST), Figma
 - CICD: GIT, Agile, Scrum, Kanban
 
