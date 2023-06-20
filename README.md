@@ -6,7 +6,6 @@ My proficiency doesn’t just lie within code creation but also in comprehending
 
 My experience in a variety of collaborative environments, including cross-functional teams and fast-paced tech startups, has nurtured my capacity to communicate clearly, delegate effectively, and maintain an unwavering focus on project deadlines. Regardless of the intensity of the time constraints, I am able to apply my robust problem-solving skills, attention to detail, and strong work ethic to ensure the delivery of high-quality software solutions.
 
-In all of my roles, I’ve excelled at integrating user feedback into software improvements, thereby strengthening product usability and user satisfaction. My versatility, technical proficiency, and ability to operate effectively under pressure make me a valuable contributor in any software development setting.
 
 ## Technologies I Work With:
 
