@@ -4,8 +4,8 @@ Fascinated by the realm of coding and technology, I have committed my profession
 
 ## Technologies I Work With:
 
-- Languages: HTML, CSS, JavaScript, TypeScript
-- Frameworks: Node, Express, NextJS
+- Languages: HTML, CSS, JavaScript, TypeScript, C#
+- Frameworks: Node, Express, NextJS, .Net
 - Libraries: React (React Hooks), Mongoose
 - Databases: MongoDB, SQL
 - Interface Design/Development: APIs (HTTP & REST), Figma
