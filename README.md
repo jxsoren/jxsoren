@@ -8,6 +8,7 @@ Fascinated by the realm of coding and technology, I have committed my profession
 - Frameworks: Node, Express, NextJS, .Net
 - Libraries: React (React Hooks), Mongoose
 - Databases: MongoDB, SQL
+- Cloud: AWS, Heroku
 - Interface Design/Development: APIs (HTTP & REST), Figma
 - CICD: GIT, Agile, Scrum, Kanban
 
