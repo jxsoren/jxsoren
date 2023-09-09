@@ -6,10 +6,10 @@ Fascinated by the realm of coding and technology, I have committed my profession
 
 - Languages: HTML, CSS, JavaScript, TypeScript, C#
 - Frameworks: Node, Express, NextJS, .Net
-- Libraries: React (React Hooks), Mongoose
+- Libraries: React (React Hooks), Mongoose, ChakraUI
 - Databases: MongoDB, SQL
 - Cloud: AWS, Heroku
-- Interface Design/Development: APIs (HTTP & REST), Figma
+- Interface Design/Development: APIs (HTTP & REST)
 - CICD: GIT, Agile, Scrum, Kanban
 
 Check out my portfolio: <a href="https://jxsoren.com/" target="_blank">https://jxsoren.com/</a>
