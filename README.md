@@ -5,7 +5,7 @@ Fascinated by the realm of coding and technology, I have committed my profession
 ## Technologies I Work With:
 
 - Languages: HTML, CSS, JavaScript, TypeScript, C#
-- Frameworks: Node, Express, NextJS, .Net
+- Frameworks: Node, Express, Next, .Net
 - Libraries: React (React Hooks), Mongoose, ChakraUI
 - Databases: MongoDB, SQL
 - Cloud: AWS, Heroku
