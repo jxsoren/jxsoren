@@ -7,8 +7,8 @@ Passionate and precise, I have committed my professional life to software develo
 My experience ranges from designing user-friendly interfaces to constructing robust backend frameworks, and ensuring the smooth integration of system components. Each challenge encountered is an opportunity for growth and improvement in this ever-evolving field.
 
 🛠️ **Technologies & Tools**
-- **Frontend**: HTML, CSS, JavaScript (React, Next.js)
-- **Backend**: Node.js, Express, C#
+- **Frontend**: HTML, CSS, JavaScript, Typescript (React, Next.js)
+- **Backend**: Node.js, Express, Mongoose, C#
 - **Database**: MongoDB, SQL
 - **Deployment**: AWS, Heroku
 - **Tools**: Git, Agile Methodologies (Scrum, Kanban)
