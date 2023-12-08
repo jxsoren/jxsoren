@@ -8,7 +8,7 @@ My experience ranges from designing user-friendly interfaces to constructing rob
 
 🛠️ **Technologies & Tools**
 - **Frontend**: HTML, CSS, JavaScript, Typescript (React, Next.js)
-- **Backend**: Node.js, Express, Mongoose, C#
+- **Backend**: Node.js, Express, Mongoose
 - **Database**: MongoDB, SQL
 - **Deployment**: AWS, Heroku
 - **Tools**: Git, Agile Methodologies (Scrum, Kanban)
